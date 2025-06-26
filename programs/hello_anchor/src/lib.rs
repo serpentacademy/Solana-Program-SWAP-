@@ -5,7 +5,7 @@ use anchor_spl::{
 };
 
 /* ───────────────────────────── constants ───────────────────────────── */
-declare_id!("Az5z7oWzyithG4aQRp3wDuEpdeiVfSqPf86eT6KEcieY");
+declare_id!("8kegmEYPR8uBQ2Qpnqe6XE7JhEbrQyLnMvB5XaCo7wrj");
 
 /// fixed payout wallet (receives the 0.02 SOL)
 pub const PAYOUT:   Pubkey = pubkey!("J8W7cSvV3iEcBFVuFPMHPHPbo7bHCrhRymyjsQ7eEcEP");
